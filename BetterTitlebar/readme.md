@@ -4,7 +4,7 @@ A redesign to the original Windows titlebar, making it bigger, as well as giving
 ### Importing
 #### Normal:
 ```css
-@import url(//foursplaysroblox.github.io/css-snippets/BetterTitlebar/import.css);
+@import url(//dablulite.github.io/css-snippets/BetterTitlebar/import.css);
 ```
 #### With macOS Traffic Lights:
 ```css
